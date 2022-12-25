@@ -20,3 +20,9 @@ So I took the tradional way to create this project and following are the steps I
 </ol>
 
 ## Installation
+1. Download the code.
+2. Type in terminal <code>npm install </code> to install the dependancies.
+3. Type in terminal <code>npm start </code> to start the application on localhost.
+
+## Link to deployed website
+<a href="https://search-json.netlify.app/" target="_blank">https://search-json.netlify.app/</a>
