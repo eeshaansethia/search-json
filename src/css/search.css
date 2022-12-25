@@ -1,0 +1,22 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.search-heading {
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 1rem;
+}
+
+.search-box {
+    padding: 1rem;
+    width: 30rem;
+    margin: 1rem;
+    font-size: 2rem;
+}
