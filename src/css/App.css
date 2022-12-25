@@ -14,3 +14,15 @@
   align-items: center;
   font-family: 'Poppins', sans-serif;
 }
+
+@media (max-width: 768px) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 50%;
+  }
+}

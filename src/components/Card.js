@@ -4,7 +4,7 @@ function Card({ link_data }) {
 
     return (
         <div className="card-container">
-            <a className="para-text" href={link_data}>{link_data}</a>
+            <a className="para-text" href={link_data} target="_blank" rel="noopener noreferrer">{link_data}</a>
         </div>
 
     )
